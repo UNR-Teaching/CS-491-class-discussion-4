@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5e7a6eb-a147-49c4-aac3-992d5b181597" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XzwiVq4jfrrkr1pToGklspoksZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in tictactoe_test.py">
+    <configuration name="play" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="abuv_TicTacToe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/play.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tictactoe_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="abuv_TicTacToe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/tictactoe_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for tests.board_test.TestMarkSquare" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="abuv_TicTacToe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.board_test.TestMarkSquare&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in board_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="abuv_TicTacToe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/board_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in tictactoe_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="abuv_TicTacToe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/tictactoe_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="abuv_TicTacToe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.play" />
+      <item itemvalue="Python tests.Unittests for tests.board_test.TestMarkSquare" />
+      <item itemvalue="Python tests.Unittests in tictactoe_test.py" />
+      <item itemvalue="Python tests.Unittests in board_test.py" />
+      <item itemvalue="Python.tictactoe_test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in tictactoe_test.py" />
+        <item itemvalue="Python.play" />
+        <item itemvalue="Python tests.Unittests in board_test.py" />
+        <item itemvalue="Python.tictactoe_test" />
+        <item itemvalue="Python tests.Unittests for tests.board_test.TestMarkSquare" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5e7a6eb-a147-49c4-aac3-992d5b181597" name="Default" comment="" />
+      <created>1581895792275</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581895792275</updated>
+      <workItem from="1582062361841" duration="5702000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="64" key="#tictactoe_test" timestamp="1582064646798">
+      <screen x="0" y="0" width="1538" height="900" />
+    </state>
+    <state x="488" y="64" key="#tictactoe_test/0.0.1538.900@0.0.1538.900" timestamp="1582064646798" />
+    <state width="1495" height="204" key="GridCell.Tab.0.bottom" timestamp="1582074392889">
+      <screen x="0" y="0" width="1538" height="900" />
+    </state>
+    <state width="1495" height="204" key="GridCell.Tab.0.bottom/0.0.1538.900@0.0.1538.900" timestamp="1582074392889" />
+    <state width="1495" height="204" key="GridCell.Tab.0.center" timestamp="1582074392889">
+      <screen x="0" y="0" width="1538" height="900" />
+    </state>
+    <state width="1495" height="204" key="GridCell.Tab.0.center/0.0.1538.900@0.0.1538.900" timestamp="1582074392889" />
+    <state width="1495" height="204" key="GridCell.Tab.0.left" timestamp="1582074392889">
+      <screen x="0" y="0" width="1538" height="900" />
+    </state>
+    <state width="1495" height="204" key="GridCell.Tab.0.left/0.0.1538.900@0.0.1538.900" timestamp="1582074392889" />
+    <state width="1495" height="204" key="GridCell.Tab.0.right" timestamp="1582074392889">
+      <screen x="0" y="0" width="1538" height="900" />
+    </state>
+    <state width="1495" height="204" key="GridCell.Tab.0.right/0.0.1538.900@0.0.1538.900" timestamp="1582074392889" />
+    <state width="1495" height="291" key="GridCell.Tab.1.bottom" timestamp="1582074392887">
+      <screen x="0" y="0" width="1538" height="900" />
+    </state>
+    <state width="1495" height="291" key="GridCell.Tab.1.bottom/0.0.1538.900@0.0.1538.900" timestamp="1582074392887" />
+    <state width="1495" height="291" key="GridCell.Tab.1.center" timestamp="1582074392887">
+      <screen x="0" y="0" width="1538" height="900" />
+    </state>
+    <state width="1495" height="291" key="GridCell.Tab.1.center/0.0.1538.900@0.0.1538.900" timestamp="1582074392887" />
+    <state width="1495" height="291" key="GridCell.Tab.1.left" timestamp="1582074392886">
+      <screen x="0" y="0" width="1538" height="900" />
+    </state>
+    <state width="1495" height="291" key="GridCell.Tab.1.left/0.0.1538.900@0.0.1538.900" timestamp="1582074392886" />
+    <state width="1495" height="291" key="GridCell.Tab.1.right" timestamp="1582074392887">
+      <screen x="0" y="0" width="1538" height="900" />
+    </state>
+    <state width="1495" height="291" key="GridCell.Tab.1.right/0.0.1538.900@0.0.1538.900" timestamp="1582074392887" />
+    <state x="270" y="92" key="SettingsEditor" timestamp="1582072562905">
+      <screen x="0" y="0" width="1538" height="900" />
+    </state>
+    <state x="270" y="92" key="SettingsEditor/0.0.1538.900@0.0.1538.900" timestamp="1582072562905" />
+    <state x="470" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1582062367904">
+      <screen x="0" y="0" width="1538" height="900" />
+    </state>
+    <state x="470" y="274" key="com.intellij.ide.util.TipDialog/0.0.1538.900@0.0.1538.900" timestamp="1582062367904" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/tictactoe_test.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/abuv_TicTacToe$tictactoe_test.coverage" NAME="tictactoe_test Coverage Results" MODIFIED="1582064704334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/abuv_TicTacToe$Unittests_in_tictactoe_test_py.coverage" NAME="Unittests in tictactoe_test.py Coverage Results" MODIFIED="1582073569135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/abuv_TicTacToe$Unittests_in_board_test_py.coverage" NAME="Unittests in board_test.py Coverage Results" MODIFIED="1582070621258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/abuv_TicTacToe$play.coverage" NAME="play Coverage Results" MODIFIED="1582073080564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+  </component>
+</project>
